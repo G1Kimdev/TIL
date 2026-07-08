@@ -2,7 +2,7 @@
 
 <details open>
 
-## <summary>목차</summary>
+<summary><b>목차</b></summary>
 
 ### 설계기법
 - 도메인 기반 설계(DDD)
@@ -16,10 +16,9 @@
 
 <details open>
 
-## <summary>미작성</summary>
+<summary><b>미작성</b></summary>
 
 - [전략적 설계(Strategic design)](https://github.com/G1Kimdev/TIL/blob/main/architecture/DDD/strategic-design.md)
 - [모듈식 모놀리식 설계(Modular Monolithic Architecture)]
-
 
 </details>
